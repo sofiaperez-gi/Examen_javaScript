@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Teclado mecánico",
+    "category": "Perifericos",
+    "description": "Teclado mecánico con conexión USB.",
+    "price": 180000,
+    "stock": 12,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Mouse inalámbrico",
+    "category": "Perifericos",
+    "description": "Mouse óptico inalámbrico.",
+    "price": 85000,
+    "stock": 20,
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Audífonos",
+    "category": "Perifericos",
+    "description": "Audífonos estéreo con micrófono.",
+    "price": 125000,
+    "stock": 8,
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Base para portátil",
+    "category": "Accesorios",
+    "description": "Base ajustable para portátil.",
+    "price": 95000,
+    "stock": 10,
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Cable HDMI",
+    "category": "Accesorios",
+    "description": "Cable HDMI de alta velocidad de 2 metros.",
+    "price": 35000,
+    "stock": 25,
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Tóner negro",
+    "category": "Suministros",
+    "description": "Tóner negro compatible para impresora.",
+    "price": 210000,
+    "stock": 5,
+    "active": true
+  }
+]
