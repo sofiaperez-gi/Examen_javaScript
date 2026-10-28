@@ -11,4 +11,7 @@ export class ProductList extends HTMLElement {
     });
   }
 }
-customElements.define('product-list', ProductList);
+
+if (!customElements.get('product-list')) {
+  customElements.define('product-list', ProductList);
+}

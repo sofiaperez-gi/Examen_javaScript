@@ -29,4 +29,7 @@ export class ShoppingCart extends HTMLElement {
     this.querySelector('#btn-buy').onclick = () => this.dispatchEvent(new CustomEvent('buy-cart', { bubbles: true, composed: true }));
   }
 }
-customElements.define('shopping-cart', ShoppingCart);
+
+if (!customElements.get('shopping-cart')) {
+  customElements.define('shopping-cart', ShoppingCart);
+}

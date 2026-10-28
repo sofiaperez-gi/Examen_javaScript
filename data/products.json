@@ -52,5 +52,59 @@
     "price": 210000,
     "stock": 5,
     "active": true
+  },
+  {
+    "id": 7,
+    "name": "Cámara web Full HD",
+    "category": "Perifericos",
+    "description": "Cámara web 1080p con micrófono integrado.",
+    "price": 150000,
+    "stock": 15,
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Mouse pad gamer XL",
+    "category": "Accesorios",
+    "description": "Alfombrilla antideslizante tamaño grande.",
+    "price": 45000,
+    "stock": 0,
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Hub USB-C multipuerto",
+    "category": "Accesorios",
+    "description": "Adaptador con 4 puertos USB 3.0 y lector SD.",
+    "price": 110000,
+    "stock": 14,
+    "active": true
+  },
+  {
+    "id": 10,
+    "name": "Resma de papel carta",
+    "category": "Suministros",
+    "description": "Paquete de 500 hojas de papel bond blanco de 75g.",
+    "price": 28000,
+    "stock": 30,
+    "active": true
+  },
+  {
+    "id": 11,
+    "name": "Cartucho de tinta color",
+    "category": "Suministros",
+    "description": "Cartucho tricolor para impresoras de inyección.",
+    "price": 95000,
+    "stock": 8,
+    "active": false
+  },
+  {
+    "id": 12,
+    "name": "Kit de limpieza para pantallas",
+    "category": "Suministros",
+    "description": "Líquido limpiador antiestático con paño de microfibra.",
+    "price": 22000,
+    "stock": 18,
+    "active": true
   }
 ]

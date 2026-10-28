@@ -20,4 +20,7 @@ export class ProductCard extends HTMLElement {
     });
   }
 }
-customElements.define('product-card', ProductCard);
+
+if (!customElements.get('product-card')) {
+  customElements.define('product-card', ProductCard);
+}
